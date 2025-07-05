@@ -19,8 +19,7 @@ One of the projects that I have worked on is a quiz application. This project he
 - JavaFX
 
 ### How to Reach Me:
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/
-sumicodes) for any collaborations or discussions!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/sumicodes) for any collaborations or discussions!
 
 ### GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xumaiya)
