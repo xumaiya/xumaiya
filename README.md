@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 ### Overview:
-Welcome to my GitHub profile! I am xumaiya, and while my GitHub activity might be minimal at the moment, I am excited to start engaging more on this platform to showcase my skills and projects.
+Welcome to my GitHub profile! I am sumaiya, and while my GitHub activity might be minimal at the moment, I am excited to start engaging more on this platform to showcase my skills and projects.
 
 ### Coding Interests:
 As of now, I am still exploring and learning various coding languages and technologies. My focus areas include HTML, CSS, JavaScript, Python, and Java with frameworks like Flask and JavaFX.
@@ -19,7 +19,8 @@ One of the projects that I have worked on is a quiz application. This project he
 - JavaFX
 
 ### How to Reach Me:
-Feel free to connect with me on [LinkedIn](#insertLinkedInProfileHere) for any collaborations or discussions!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/
+sumicodes) for any collaborations or discussions!
 
 ### GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xumaiya)
